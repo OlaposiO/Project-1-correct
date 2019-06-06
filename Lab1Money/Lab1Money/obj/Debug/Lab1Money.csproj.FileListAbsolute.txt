@@ -1,0 +1,14 @@
+C:\Users\Lyrical Hero\source\repos\Lab1Money\Lab1Money\obj\Debug\Lab1Money.csprojAssemblyReference.cache
+C:\Users\Lyrical Hero\source\repos\Lab1Money\Lab1Money\obj\Debug\Lab1Money.csproj.CoreCompileInputs.cache
+C:\Users\Lyrical Hero\source\repos\Lab1Money\Lab1Money\bin\Debug\Lab1Money.exe.config
+C:\Users\Lyrical Hero\source\repos\Lab1Money\Lab1Money\bin\Debug\Lab1Money.exe
+C:\Users\Lyrical Hero\source\repos\Lab1Money\Lab1Money\bin\Debug\Lab1Money.pdb
+C:\Users\Lyrical Hero\source\repos\Lab1Money\Lab1Money\obj\Debug\Lab1Money.exe
+C:\Users\Lyrical Hero\source\repos\Lab1Money\Lab1Money\obj\Debug\Lab1Money.pdb
+C:\Users\Lyrical Hero\Documents\source\repos\I-am-annoyed\Lab1Money\Lab1Money\bin\Debug\Lab1Money.exe.config
+C:\Users\Lyrical Hero\Documents\source\repos\I-am-annoyed\Lab1Money\Lab1Money\bin\Debug\Lab1Money.exe
+C:\Users\Lyrical Hero\Documents\source\repos\I-am-annoyed\Lab1Money\Lab1Money\bin\Debug\Lab1Money.pdb
+C:\Users\Lyrical Hero\Documents\source\repos\I-am-annoyed\Lab1Money\Lab1Money\obj\Debug\Lab1Money.csprojAssemblyReference.cache
+C:\Users\Lyrical Hero\Documents\source\repos\I-am-annoyed\Lab1Money\Lab1Money\obj\Debug\Lab1Money.csproj.CoreCompileInputs.cache
+C:\Users\Lyrical Hero\Documents\source\repos\I-am-annoyed\Lab1Money\Lab1Money\obj\Debug\Lab1Money.exe
+C:\Users\Lyrical Hero\Documents\source\repos\I-am-annoyed\Lab1Money\Lab1Money\obj\Debug\Lab1Money.pdb
